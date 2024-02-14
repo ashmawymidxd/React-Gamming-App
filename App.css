@@ -1,0 +1,19 @@
+:root{
+    --color-darkest:#1e1e1e;
+    --color-dark:#27292a;
+    --color-light:white;
+    --color-primary:rgb(145, 99, 99);
+    --max-distance: 50px;
+    --max-radius: 20px;
+    --max-font-size: 40px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color:var(--color-darkest);
+}
+.container2{
+    background-color:var(--color-dark) ;
+    padding:var(--max-distance);
+    border-radius: var(--max-radius);
+}
