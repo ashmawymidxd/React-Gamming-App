@@ -1,0 +1,28 @@
+.item-card ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.item-card ul h4{
+    font-size: 20px;
+   color: aliceblue;
+}
+.item-card ul img{
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+}
+.item-card{
+border-bottom: 1px solid #5a5a5a;
+}
+.btn-outline-secondary a{
+    color:rgb(145, 99, 99);
+}
+.btn-outline-secondary{
+    border-color: var(--color-primary);
+}
+.btn-outline-secondary:hover{
+    background-color: rgba(255, 0, 0, 0);
+    border-color: var(--color-primary);
+}

@@ -1,0 +1,6 @@
+.wapper{
+    background-color: var(--color-darkest);
+    border-radius: 20px;
+    padding: 20px;
+    margin:50px 0px;
+}

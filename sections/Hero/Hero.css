@@ -1,0 +1,19 @@
+.hero-main{
+    background: url('../../assets/images/banner-bg.jpg') no-repeat top right/cover;
+    border-radius: 20px;
+    padding: 60px 50px;
+}
+.hero-main p{
+    color: white;
+}
+.hero-main h1{
+    color: white;
+    font-weight: bold;
+}
+.hero-main strong{
+    color: var(--color-primary);
+}
+.btn-success{
+    background-color: var(--color-primary);
+    box-shadow: none;
+}
